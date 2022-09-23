@@ -1,0 +1,5 @@
+fnum=float(input("enter the number:"))
+
+a="{:.2f}".format(fnum)
+
+print(a)
